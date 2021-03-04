@@ -1,0 +1,11 @@
+{
+    "token": "",
+    "ping_everyone": false,
+    "announce_channel": "",
+    "whitelisted_role": [""],
+
+    "embed": {
+        "color": "",
+        "footer": ""
+    }
+}

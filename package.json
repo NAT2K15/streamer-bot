@@ -1,0 +1,15 @@
+{
+  "name": "streaming-bot",
+  "version": "1.0.0",
+  "description": "public bot made by nat2k15. it will tell you when someone is going live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NAT2K15",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1"
+  }
+}
