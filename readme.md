@@ -1,5 +1,11 @@
+# Streamer Bot | Discord Bot
+
+# Setup
 change everything in config.json
+run setup.bat
+then run start.bat
 
-I didn't test because im not a streamer >< so if someone wants to let me know if it works in my discord would be appreciated
 
-If u find any issues contact NAT2K15 at https://discord.gg/RquDVTfDwu
+# Support Discord
+- [NAT2K15](https://discord.gg/RquDVTfDwu)
+
